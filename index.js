@@ -71,7 +71,3 @@
 // setTimeout(function(){
 //     heading.textContent="updated"
 // },3000)
-
-
-
-
